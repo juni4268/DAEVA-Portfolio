@@ -5,6 +5,7 @@
 떠돌이 마법사가 되어 점점 늘어나는 몬스터를 상대로 3분간 버티는 3인칭 생존 게임입니다.
 
 - 영상과 구현 설명: https://juni4268.github.io/daeva/
+- 플레이 빌드 (Windows): [Releases](https://github.com/juni4268/DAEVA-Portfolio/releases/latest)
 
 ## 개요
 
@@ -44,6 +45,7 @@
 |---|---|
 | 이동 | W A S D |
 | 시점 | 마우스 |
+| 점프 | Space |
 | 기본 공격 | 마우스 왼쪽 버튼 |
 | 순간이동 | Shift |
 | 범위 스킬 | Q |
