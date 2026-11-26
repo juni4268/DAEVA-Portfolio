@@ -1,0 +1,8 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+# Portfolio repo: engine assets are not included
+Content/
